@@ -1,4 +1,4 @@
-# Image Classification Project
+# St. George Image Detection Project
 
 ## Overview
 
